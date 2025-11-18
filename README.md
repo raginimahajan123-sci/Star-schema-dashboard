@@ -22,7 +22,7 @@ https://github.com/academind/power-bi-course-resources/tree/02-understanding-the
 
 ⦁	**_Age-Category Slicer Panel_ (Buttons)** An interactive slicer made of buttons allows users to filter the data displayed by selecting a specific demographic age group, such as Adult, Child, Teenager, Baby, Senior, or Young adult.
 
-⦁	**_Sum of Population, Female-Population Share by Year and Region (Line Chart)_**📈  This line chart shows population trends over time (from 2010 to 2040), segmented by major regions like Africa, Asia, Europe, North America, Oceania, and South America. Selecting a region in the legend will highlight or isolate that region's line across the time series.
+⦁	**_Sum of Population, Female-Population Share by Year and Region (Line Chart)_** 📈  This line chart shows population trends over time (from 2010 to 2040), segmented by major regions like Africa, Asia, Europe, North America, Oceania, and South America. Selecting a region in the legend will highlight or isolate that region's line across the time series.
 
 ⦁	**_Sum of Population by Region (Bar Chart)_** 📊This bar chart visually compares the total population across the major world regions. Clicking on a specific region (like Asia or Africa) on the bar chart will act as a filter, applying that regional selection to all other visuals on the dashboard.
 
