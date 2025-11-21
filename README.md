@@ -1,5 +1,4 @@
-# Project Title / Headline
-## The Population Star schema dashboard ⭐
+# The Population Star schema dashboard ⭐
 
 ## Short Description / Purpose 📋
 The Star Schema Dashboard is a visually engaging and dynamic, interactive data visualization Power BI report designed to help users explore and compare populations across different countries, ages and genders. The dashboard focuses on highlighting the ratio of male vs female and age demographic wise trends and characteristics population density globally.
